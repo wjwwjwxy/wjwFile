@@ -1,0 +1,5 @@
+#src/pages/back/configs/urlConfig.js
+#src/pages/front/configs/urlConfig.js
+node_modules
+/.idea/
+dist
